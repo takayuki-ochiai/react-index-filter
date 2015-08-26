@@ -1,0 +1,28 @@
+{
+  "name": "react-index-filter",
+  "version": "0.0.23",
+  "description": "",
+  "keywords": "react-component",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "takayuki-ochiai",
+  "license": "ISC",
+  "dependencies": {
+    "font-awesome": "^4.4.0",
+    "react": "^0.13.3",
+    "react-fontawesome": "^0.2.5"
+  },
+  "devDependencies": {
+    "babelify": "^6.2.0",
+    "browser-sync": "^2.8.2",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-react": "^3.0.1",
+    "gulp-sass": "^2.0.4",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.3.1"
+  }
+}
